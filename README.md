@@ -11,7 +11,7 @@ To adapt the FPDF example, make a controller like this:
 
     // src/Acme/AppBundle/DefaultController.php
     namespace Acme\DefaultBundle\Controller;
-    use Openview\FpdmBundle\Model\FPDM;
+    use Acme\FpdmBundle\Model\FPDM;
     use Symfony\Bundle\FrameworkBundle\Controller\Controller;
     
     class DefaultController extends Controller {
