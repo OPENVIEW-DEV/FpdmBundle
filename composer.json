@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "title": "FpdmBundle",
     "description": "FPDM adaption to Symfony",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "author": {
         "name": "Openview",
         "url": "http://www.openview.it"
