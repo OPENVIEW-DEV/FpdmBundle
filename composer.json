@@ -1,0 +1,22 @@
+{
+    "name": "openview/fpdm",
+    "type": "symfony-bundle",
+    "title": "FpdmBundle",
+    "description": "FPDM adaption to Symfony",
+    "version": "0.1.1",
+    "author": {
+        "name": "Openview",
+        "url": "http://www.openview.it"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/OPENVIEW-DEV/FpdmBundle.git"
+    },        
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "Openview\\FpdmBundle": "" }
+    },
+    "target-dir": "Openview/FpdmBundle"
+}
